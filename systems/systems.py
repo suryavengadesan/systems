@@ -72,8 +72,15 @@ def parition_network(cluster, model, partitions):
 	for i, layer in enumerate(model):
 		cluster.nodes[(i//chunk_size) % partitions].append(layer)
 	return
+	sett
+def pipeDream():
+	return 
 
 class TestMethods(unittest.TestCase):
+	def test_pipeDream(self):
+		pipeDream()
+		return False
+
 	def test_gPipe(self):
 		gPipe(None, None, None)
 		return False

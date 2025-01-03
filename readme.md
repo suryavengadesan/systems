@@ -1,8 +1,13 @@
-# Systems
+# Papers
 
 Exploring interesting problems (e.g. algorithms on simulated systems).
 
-## Papers
+## Machine Learning
+- Language Models
+  - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
+  - [Emergence Abilities of Large Language Models](https://arxiv.org/pdf/2206.07682)
+
+## Systems
 - Fault Tolerance
   - [Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with
 Adaptive Expert Placement](https://arxiv.org/pdf/2407.04656)
